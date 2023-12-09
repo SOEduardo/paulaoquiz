@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resolução de Questões</title>
+    <title>Português</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -36,32 +36,32 @@
     // Array de questões e resoluções (poderia ser carregado de um banco de dados)
     $questoes = array(
         array(
-            'pergunta' => 'Qual é a capital da Bahia',
-            'resposta' => 'Salvador.'
+            'pergunta' => 'O que é uma sílaba',
+            'resposta' => 'As sílabas são fonemas ou grupos de fonemas que são pronunciados por uma única emissão de voz e cuja base é sempre uma vogal.'
         ),
         array(
-            'pergunta' => 'Qual é a diferença entre latitude e altitude',
-            'resposta' => 'Enquanto a altitude corresponde à elevação de uma área com relação ao nível do mar, a latitude diz respeito à posição de uma área na superfície terrestre em relação ao paralelo de 0°, que é a linha do Equador..'
+            'pergunta' => 'O que foi a escola literária do Romanticismo',
+            'resposta' => 'O romantismo é um estilo de época. Apesar de ter surgido na Alemanha, o fato histórico que motivou o aparecimento desse movimento artístico foi a Revolução Francesa, um acontecimento importante para toda a Europa. Ele é caracterizado pelo subjetivismo, excesso sentimental, idealização e fuga da realidade.'
         ),
         array(
-            'pergunta' => 'O que é a geopolítica',
-            'resposta' => 'A Geopolítica é uma área de estudo que analisa as relações entre os países e territórios do mundo.'
+            'pergunta' => 'O que é pleonasmo',
+            'resposta' => 'O pleonasmo se caracteriza por uma superabundância de palavras que expressam uma mesma ideia em uma frase.'
         ),
         array(
-            'pergunta' => 'Defina o que foi a Primavera Arábe',
-            'resposta' => 'A Primavera Árabe foi uma série de protestos de rua que aconteceram nos países árabes do norte da África e no Oriente Médio, a partir de 2010.'
+            'pergunta' => 'Diga um exemplo de hipérbole',
+            'resposta' => 'Eu estou congelando de frio!'
         ),
         array(
-            'pergunta' => 'O que significa ser um país tropical? ',
-            'resposta' => 'Países com elevada radiação solar, que tem constantes registros de altas temperaturas e um considerável volume de chuvas.'
+            'pergunta' => 'O que é um advérbio ',
+            'resposta' => 'O advérbio é a palavra que indica uma circunstância (modo, lugar, tempo). Ele pode modificar um verbo, um adjetivo ou outro advérbio.'
         ),
         array(
-            'pergunta' => 'Onde passa o Trópico de Capricórnio no Brasil? ',
-            'resposta' => 'o Trópico de Capricórnio atravessa os estados do Mato Grosso do Sul, Paraná e São Paulo.'
+            'pergunta' => 'Defina a diferença entre mas e mais ',
+            'resposta' => 'mas é usado com sentido de oposição, sendo sinônimo de expressões como porém, contudo e todavia. Já o termo mais se refere, principalmente, a ideia de quantidade, aumento de alguma coisa.'
         ),
         array(
-            'pergunta' => 'O que são os polos geográficos',
-            'resposta' => 'São os representantes dos pontos extremos do planeta, com os níveis máximos e mínimos de latitude.'
+            'pergunta' => 'O que é o Trovadorismo',
+            'resposta' => 'Trovadorismo é um estilo de época surgido na Idade Média. Nesse período histórico, predominava o teocentrismo (a ideia de que Deus é o centro de tudo), pois a Igreja Católica, com poderio econômico e político, exercia total domínio no Ocidente.'
         ),
         // Adicione mais questões conforme necessário
     );
